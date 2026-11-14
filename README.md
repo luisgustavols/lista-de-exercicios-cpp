@@ -16,6 +16,7 @@ Repositório criado para organizar listas de exercícios, práticas de lógica d
 | [`lista05`](./lista05) | | ✅ Concluída |
 | [`lista06`](./lista06) | | ✅ Concluída |
 | [`lista07`](./lista07) | | ✅ Concluída |
+| [`lista08`](./lista08) | | ✅ Concluída |
 
 ##  Linguagens e programas utilizadas
 
